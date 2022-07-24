@@ -24,7 +24,7 @@ Fig-1G.py
 
 Fig-1H.py
 
-Fig-2I.py
+Fig-2F.py
 
 Fig-3B.py
 
@@ -33,8 +33,6 @@ Fig-3F.r
 Fig-3H.py
 
 Fig-3I.py
-
-Fig-4B.py
 
 Fig-5A.r
 
